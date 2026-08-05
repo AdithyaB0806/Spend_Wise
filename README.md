@@ -1,4 +1,5 @@
-# 💰 Full Stack Expense Tracker
+# 💰Spend Wise
+     A Full Stack Expense Tracker
 
 A modern full-stack expense tracker built with **React + FastAPI + PostgreSQL**.
 Track your income, expenses, and analyze spending with interactive charts.
